@@ -1,6 +1,6 @@
 .holder{
 	display:grid;
-	grid-template-rows: 100px 100px;
+	grid-column: 100px 100px;
 }
 .item{
 	border:solid black;
